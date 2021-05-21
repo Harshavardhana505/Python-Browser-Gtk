@@ -2,4 +2,4 @@
 
 Run 
 <br>
-python simple_browser.py
+<code> python simple_browser.py </code>
